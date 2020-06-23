@@ -1,5 +1,13 @@
-# BERT models and configuration for NLP
+# BERT for multi-text classification
 
+Text classification is one of the most trending and important application that most of the blogging companies have in their arsenal. 
+
+### But what is text classification?
+Well, when it comes to understanding classification it is quite simple. Let's say we have two categories of fruits apple and banana in a basket and we want to separate them and store them in a different basket with respect to their categories - apple or banana. 
+
+
+Classification is when we understand the given input and set it apart from the other input. 
+Text classification is the same thing. Imagine we have a lot of categories or genre of text.
 
 ```python
 
