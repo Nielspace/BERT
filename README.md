@@ -1,4 +1,4 @@
-# BERT for multi-text classification
+# BERT for multitext classification
 
 Text classification is one of the most trending and important application that most of the blogging companies have in their arsenal. 
 
