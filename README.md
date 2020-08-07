@@ -1,4 +1,4 @@
-# BERT Config
+# BERT Configuration
 
 Text classification is one of the most trending and important application that most of the blogging companies have in their arsenal. 
 
